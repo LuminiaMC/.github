@@ -1,6 +1,6 @@
 <div align="center">
   
-### LuminiaMC
+## Team de développement LuminiaMC 🙌
 
 An emerging French Mini-Games server
   
